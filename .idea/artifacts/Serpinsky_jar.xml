@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Serpinsky:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Serpinsky_jar</output-path>
+    <root id="archive" name="Serpinsky.jar">
+      <element id="module-output" name="Serpinsky" />
+    </root>
+  </artifact>
+</component>
